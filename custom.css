@@ -1,2 +1,9 @@
+/* custom font color (dark grey) */
 body {color:#333333;background-color:#ffffff}
+/* have some space at the bottom */
 .footer{margin-bottom:3vh}
+/* have a header that does not scroll */
+.header{position:fixed;width:1140px;top:0}
+@media (max-width:1205px){.header{max-width:95%}}
+@media (max-width:992px){.header{max-width:100%}}
+/* end */

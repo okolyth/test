@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://trackle-rabattcode.de/</loc>
+  <image:image>
+    <image:loc>https://trackle-rabattcode.de/Trackle_Rabattcode_Trackle2021.jpg</image:loc>
+    <image:caption>Trackle Rabattcode Trackle2021</image:caption>
+  </image:image>
+  <priority>1</priority>
+</url>
+
+<url>
+  <loc>http://trackle-rabattcode.de/</loc>
+  <image:image>
+    <image:loc>http://trackle-rabattcode.de/Trackle_Rabattcode_Trackle2021.jpg</image:loc>
+    <image:caption>Trackle Rabattcode Trackle2021</image:caption>
+  </image:image>
+</url>
+
+</urlset>
